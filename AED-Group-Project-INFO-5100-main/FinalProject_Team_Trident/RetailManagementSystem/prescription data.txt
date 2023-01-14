@@ -1,0 +1,15 @@
+MA,null,adasd
+Medicine Name - adasd, No of Times 2, No of Days4
+Medicine Name - ghfdg, No of Times 3, No of Days5
+Medicine Name - adasd, No of Times 3, No of Days5
+Medicine Name - ghfdg, No of Times 2, No of Days8
+Medicine Name - adasd, No of Times 3, No of Days4
+Medicine Name - Doxy 650, No of Times 2, No of Days4
+Medicine Name - Remdesivir, No of Times 2, No of Days3
+Medicine Name - Remdesivir, No of Times 2, No of Days1
+Medicine Name - Milk, No of Times 3, No of Days1
+Medicine Name - Milk, No of Times 2, No of Days1
+Medicine Name - Edible, No of Times 1, No of Days1
+Medicine Name - Edible, No of Times 1, No of Days3
+Medicine Name - Vegan, No of Times 2, No of Days4
+Medicine Name - Edible, No of Times 2, No of Days2

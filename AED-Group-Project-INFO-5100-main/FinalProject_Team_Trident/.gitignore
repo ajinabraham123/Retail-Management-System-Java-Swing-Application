@@ -1,0 +1,6 @@
+/MedicalEmergencySystem/build/
+/MedicalEmergencySystem/dist/
+/MedicalEmergencySystem/Databank.db4o
+/MedicalEmergencySystem/Log4j/
+
+/MedicalEmergencySystem/nbproject/private/
